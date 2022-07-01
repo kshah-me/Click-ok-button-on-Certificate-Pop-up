@@ -1,0 +1,10 @@
+import time
+import win32com.client
+shell = win32com.client.Dispatch("WScript.Shell")
+
+def method_calling():
+    time.sleep(8)
+    shell.SendKeys("{ENTER}", 0)
+    #shell.SendKeys("{CAPSLOCK}", 0)
+
+
