@@ -8,3 +8,4 @@ def method_calling():
     #shell.SendKeys("{CAPSLOCK}", 0)
 
 
+https://stackoverflow.com/questions/60965147/unable-to-click-on-pop-up-certificate-while-accessing-website-using-selenium-and
